@@ -21,5 +21,5 @@ def menu():
     print("4. Delete Employee")
     print("5. Search Employee")
     print("6. Exit\n")
-
+## call the menu function to display the menu options
 menu()
